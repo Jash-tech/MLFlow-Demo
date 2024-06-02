@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/Downloads/Mlflow/mlruns/0/c7c8414e661546599ced194237439549/artifacts
+end_time: 1717281218400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7c8414e661546599ced194237439549
+run_name: lyrical-ox-128
+run_uuid: c7c8414e661546599ced194237439549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717281209237
+status: 3
+tags: []
+user_id: LENOVO
